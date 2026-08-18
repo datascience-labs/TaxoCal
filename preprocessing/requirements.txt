@@ -1,0 +1,6 @@
+transformers==4.49.0     # bert-base-uncased text encoder
+pandas>=2.2,<3
+
+beautifulsoup4==4.13.3
+selenium==4.28.1
+webdriver_manager==4.0.2
