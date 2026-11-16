@@ -91,5 +91,11 @@ The train/valid/test partition is a 50/10/40 `random_split` over `inference.pkl`
 If you find this work useful in your research, please cite our paper.
 
 ```bibtex
-
+@inproceedings{son2026taxonomy,
+  title={Taxonomy-Guided Contrastive Learning with Competency-Calibrated Graphs for Job Recommendation},
+  author={Son, Wonseok and Koo, Haeyoon and Park, Jeonghyeon and Oh, Byungkook and Chun, Sejin},
+  booktitle={Proceedings of the 35th ACM International Conference on Information and Knowledge Management},
+  pages={7831--7835},
+  year={2026}
+}
 ```
